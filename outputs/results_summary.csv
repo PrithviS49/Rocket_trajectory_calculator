@@ -1,0 +1,4 @@
+Launch_Name,Burn_Time_s,Initial_TWR,Burnout_Altitude_km,Apogee_km,Apogee_Time_s,Range_km,Flight_Time_s,Impact_Speed_ms,Impact_Mach,Impact_Angle_deg,Max_Speed_ms,Max_q_kPa,Apogee_Vacuum_km,Range_Vacuum_km,Impact_Speed_Vacuum_ms,Burnout_vx_solver_ms,Burnout_vx_exact_ms,Burnout_vz_solver_ms,Burnout_vz_exact_ms,Burnout_vx_error_pct,Burnout_vz_error_pct
+Heavy_Lifter,57.2,3.06,27.9,83.62,162.5,84.83,340.8,149.4,0.44,88.5,1273.0,60.4,317.01,390.32,2608.0,764.2,764.2,2290.8,2290.8,0.0,0.0
+Supersonic_Test,41.2,5.1,23.49,93.95,159.7,364.48,324.3,259.7,0.76,67.4,2137.0,247.8,301.62,1338.84,3629.0,2692.6,2692.6,2288.4,2288.4,0.0,0.0
+Cold_Gas_RCS_Proto,12.8,3.82,0.87,0.97,16.3,1.18,47.7,32.8,0.1,90.0,130.0,9.4,18.09,69.29,823.0,568.2,568.2,552.1,552.1,0.0,0.0
